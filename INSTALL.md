@@ -10,8 +10,4 @@ and run...
 ```
 git clone https://github.com/Yizziii/EZSTATS/ && cd EZSTATS && chmod +x EZS.sh && ./EZS.sh
 ```
-after that run this
-```
-chmod +x EZS.sh && ./EZS.sh
-```
 and your done!
