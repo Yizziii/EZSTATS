@@ -8,7 +8,7 @@ sudo --login
 ```
 and run...
 ```
-git clone github.com/Yizziii/EZSTATS/EZS.sh
+git clone https://github.com/Yizziii/EZSTATS/ && cd EZSTATS && chmod +x EZS.sh && ./EZS.sh
 ```
 after that run this
 ```
